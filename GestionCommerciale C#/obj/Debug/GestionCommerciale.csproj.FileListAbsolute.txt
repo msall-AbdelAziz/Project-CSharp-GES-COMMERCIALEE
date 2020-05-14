@@ -1,0 +1,16 @@
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\GestionCommerciale.exe.config
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\GestionCommerciale.exe
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\GestionCommerciale.pdb
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.csprojAssemblyReference.cache
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.Properties.Resources.resources
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.GenerateResource.cache
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.CoreCompileInputs.cache
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.exe
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.pdb
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\EntityFramework.dll
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\EntityFramework.xml
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.CopyComplete
+C:\Users\msall\OneDrive\Bureau\Projet C#\GestionCommerciale\obj\Debug\GestionCommerciale.DF.FRM_Menu.resources
